@@ -9,6 +9,7 @@
 # Yadgah
 
 Yadgah A Platform for Experience Sharing &amp; Q&amp;A
+
 Similar to platforms like Quora or StackOverflow, users can share their experiences or ask questions from others.
 
 </div>
